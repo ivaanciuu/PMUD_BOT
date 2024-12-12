@@ -1,0 +1,5 @@
+# Node.js dependencies
+node_modules/
+
+# Configurations and sensitive files
+config.json
